@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** C, C++, Java, Python, JavaScript
+- **Languages:** C, C++, Java, Python, JavaScript,Typescript
 - **Web & Frameworks:** HTML5, CSS3, React, Node.js
 - **Databases & Tools:** MySQL, PostgreSQL, MongoDB, Git, GitHub, VS Code
 
