@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm Gayathri C G 👩‍💻
+- Final Year CSE Student 🎓✨
+
 <!--
 **gayathri-cg/gayathri-cg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
